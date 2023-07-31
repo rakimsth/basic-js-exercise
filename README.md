@@ -1,4 +1,4 @@
-# basic-js-exercise
+# BASIC JS EXERCISES WITH SLIDESss
 
 Presentation Slides:[Link](https://docs.google.com/presentation/d/1swff3snFkECsxhUgM5iY3ZEbuwjhgjbwL18ghTJoegI/edit#slide=id.g252f98ba533_0_58)
 
