@@ -6,4 +6,3 @@ More challenges : [W3School Exercise](https://www.w3schools.com/js/exercise_js.a
 <br />
 Advanced Challenges: [W3School](https://www.w3resource.com/javascript-exercises/)
 
-hello
