@@ -12,16 +12,17 @@
     Eg:
     Sample array: [1,2,4,5,6]
     Target value: 6.
+for learning purpose
 
-7.  Write a function that converts an array of values from miles to kilometres using the map method. In the end, add the kilometres up in a new variable called "totalDistanceInKilometers" and return this variable.
+8.  Write a function that converts an array of values from miles to kilometres using the map method. In the end, add the kilometres up in a new variable called "totalDistanceInKilometers" and return this variable.
 
-8.  Square and sum the array elements using the arrow function and then find the average of the array.
+9.  Square and sum the array elements using the arrow function and then find the average of the array.
 
-9.  Create a new array whose elements is in uppercase of words present in the original array.
+10.  Create a new array whose elements is in uppercase of words present in the original array.
 
-10. Write a function Myfunc that takes in an array of numbers and multiply each of the elements by 2.
+11. Write a function Myfunc that takes in an array of numbers and multiply each of the elements by 2.
 
-11.
+12.
 
 ```code
 let food = ['Noodle', 'Pasta', 'Ice-cream'];
