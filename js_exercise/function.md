@@ -22,3 +22,6 @@
 7. Write a function `findSquare()` returns the square of the input number which is passed as an argument in the function call.
 
 8. Write a function to calculate compound interest based on the principle amount
+
+9. Write a js function that convert full name to proper case
+   Eg: raktim kumar shrestha => Raktim Kumar Shrestha
