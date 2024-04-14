@@ -25,3 +25,7 @@
 
 9. Write a js function that convert full name to proper case
    Eg: raktim kumar shrestha => Raktim Kumar Shrestha
+
+10. Write a implicit js function that formats the number in following format.
+    10000 => 10,000
+    1000000 =>10,000,000
